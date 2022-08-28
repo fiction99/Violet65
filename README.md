@@ -1,2 +1,2 @@
 # Violet65
-A violet evergarden inspired custom keyboard.
+A Violet Evergarden inspired custom mechanical keyboard.
