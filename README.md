@@ -31,11 +31,11 @@ Features
 - 1 Case Bottom, Case Top, Weight, Badge
 
 - Screws 
-    dboard: 4 of m2x6mm 
-    badge:  1 of m2x6mm 
-    weight: 2 of m4x6mm countersunk
-    case: 8 of m2.5x12mm
-    plate: 6 of m2.5x6mm
+    - dboard: 4 of m2x6mm 
+    - badge:  1 of m2x6mm 
+    - weight: 2 of m4x6mm countersunk
+    - case: 8 of m2.5x12mm
+    - plate: 6 of m2.5x6mm
 
 - 1 Hardshell Case w/ foam packaging
 
