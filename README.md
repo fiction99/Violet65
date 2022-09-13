@@ -29,6 +29,10 @@ Features
 ### Included Kit Parts ### 
 
 - 1 Case Bottom, Case Top, Weight, Badge
+- 1 Hardshell Case w/ foam packaging
+- 1 Hotswap PCB
+- 1 Aluminum 5052 Plate
+- 1 usb-c daughterboard and 1 jst cable (130mm) 
 
 - Screws 
     - dboard: 4 of m2x6mm 
@@ -37,8 +41,3 @@ Features
     - case: 8 of m2.5x12mm
     - plate: 6 of m2.5x6mm
 
-- 1 Hardshell Case w/ foam packaging
-
-- 1 Hotswap PCB and Plate
-
-- 1 usb-c daughterboard and 1 jst cable (130mm) 
