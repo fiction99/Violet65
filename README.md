@@ -25,3 +25,20 @@ Render Gallery: https://imgur.com/a/AUimohz
 Features
 - Patina brass weight (uncoated) w/ r-PVD screws
 - Patina brass badge (uncoated)
+
+### Included Kit Parts ### 
+
+- 1 Case Bottom, Case Top, Weight, Badge
+
+- Screws 
+    dboard: 4 of m2x6mm 
+    badge:  1 of m2x6mm 
+    weight: 2 of m4x6mm countersunk
+    case: 8 of m2.5x12mm
+    plate: 6 of m2.5x6mm
+
+- 1 Hardshell Case w/ foam packaging
+
+- 1 Hotswap PCB and Plate
+
+- 1 usb-c daughterboard and 1 jst cable (130mm) 
