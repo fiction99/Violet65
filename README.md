@@ -11,10 +11,7 @@ Product Gallery: https://imgur.com/a/UlXFfed
 
 Prototype Photos: https://imgur.com/a/r122pqn
 
-![alt text](https://github.com/fiction99/Violet65/blob/main/media/PXL_20230531_015006802.jpg)
-
 ### Technical Specifications ###
-
 - Layout: 65% WK with top right blocker 
 - Material: Anodized Aluminum 6061
 - Color: Beige Anodization
@@ -41,4 +38,6 @@ Weight and Badge will have options for clear coating to protect from oxidization
     - weight: 2 of m4x6mm countersunk
     - case: 8 of m2.5x12mm
     - plate: 6 of m2.5x6mm
+
+![alt text](https://github.com/fiction99/Violet65/blob/main/media/PXL_20230531_015006802.jpg)
 
