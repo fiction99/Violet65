@@ -1,7 +1,7 @@
-# Violet65 (tentative)
+#Evergarden65 
 A premium custom mechanical keyboard inspired by the Violet Evergarden television series.
 
-![alt text](https://github.com/fiction99/Cosmo65/blob/main/media/photo4.jpg?rae=true)
+![alt text](https://github.com/fiction99/Violet65/blob/main/media/PXL_20230531_015030285.jpg.jpg?rae=true)
 
 Prototype Photos: https://imgur.com/a/sJrSHMh
 
