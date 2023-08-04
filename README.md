@@ -11,6 +11,8 @@ Product Gallery: https://imgur.com/a/UlXFfed
 
 Prototype Photos: https://imgur.com/a/r122pqn
 
+![alt text](https://github.com/fiction99/Violet65/blob/main/media/PXL_20230531_015006802.jpg)
+
 ### Technical Specifications ###
 
 - Layout: 65% WK with top right blocker 
