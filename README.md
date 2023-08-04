@@ -38,6 +38,3 @@ Weight and Badge will have options for clear coating to protect from oxidization
     - weight: 2 of m4x6mm countersunk
     - case: 8 of m2.5x12mm
     - plate: 6 of m2.5x6mm
-
-![alt text](https://github.com/fiction99/Violet65/blob/main/media/PXL_20230531_015006802.jpg)
-
